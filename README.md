@@ -32,8 +32,9 @@ The data was given by a text data in a xlsx format, which was downloaded and pro
 - Dashboard Development – Designing an interactive dashboard with slicers and filters to allow dynamic exploration of the results.
 
 **EXPLORATORY DATA ANALYSIS (EDA)**
+In this EDA phase, we will examine the ustomer patterns, product performance, sales trends, geographic insights, pricing–revenue relationships, and how various factors influence customer ratings
 
-KEY QUESTION TO ADDRESS
+**KEY QUESTION TO ADDRESS**
 CODES USE
 RECOMMENDATION
 RESULT

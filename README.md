@@ -54,10 +54,7 @@ In this EDA phase, we will examine the ustomer patterns, product performance, sa
 
 10. Is there a pattern between order rating and the presence of shipping charges?
 
-
-
-
-
+---
 CODES USE
 RECOMMENDATION
 RESULT

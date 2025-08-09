@@ -23,11 +23,11 @@ The analysis covers:
 The data was given by a text data in a xlsx format, which was downloaded and processed for analysis
 
 **TOOLS**
-- Mircosoft Excel: Data Organization – Importing, formatting, and structuring the dataset for easy analysis.
-                   Data Cleaning – Removing duplicates, handling missing values, and standardizing formats.
-                   Computation & Analysis – Using formulas, functions, and pivot tables to calculate totals, averages, correlations, and growth rates.Segmentation – Filtering and grouping data by category, location, gender, and age group.
-                   Visualization – Creating charts and graphs to represent trends and comparisons.
-                   Dashboard Development – Designing an interactive dashboard with slicers and filters to allow dynamic exploration of the results.
+- Mircosoft Excel:- Data Organization – Importing, formatting, and structuring the dataset for easy analysis.
+                  - Data Cleaning – Removing duplicates, handling missing values, and standardizing formats.
+                  - Computation & Analysis – Using formulas, functions, and pivot tables to calculate totals, averages, correlations, and growth rates.Segmentation – Filtering and grouping data by category, location, gender, and age group.
+                  - Visualization – Creating charts and graphs to represent trends and comparisons.
+                  - Dashboard Development – Designing an interactive dashboard with slicers and filters to allow dynamic exploration of the results.
 KEY QUESTION TO ADDRESS
 CODES USE
 RECOMMENDATION

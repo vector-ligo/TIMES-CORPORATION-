@@ -58,12 +58,6 @@ In this EDA phase, we will examine the ustomer patterns, product performance, sa
 
 
 
-
-
-
-
-Ask ChatGPT
-
 CODES USE
 RECOMMENDATION
 RESULT

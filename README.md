@@ -19,7 +19,7 @@ The analysis covers:
 - Insight Extraction – Interpret patterns, identify key drivers of sales and ratings.
 - Final Reporting – Present findings clearly within the dashboard
 
-**DATA SOURCE**
+**DATA SOURCE**:
 The data was given by a text data in a xlsx format, which was downloaded and processed for analysis
 
 **TOOLS**

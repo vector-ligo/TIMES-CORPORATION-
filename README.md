@@ -35,7 +35,7 @@ The data was given by a text data in a xlsx format, which was downloaded and pro
 
 In this EDA phase, we will examine the ustomer patterns, product performance, sales trends, geographic insights, pricing–revenue relationships, and how various factors influence customer ratings
 
-**KEY QUESTION TO ADDRESS**
+_KEY QUESTION TO ADDRESS_
 1. How does the average rating differ across product categories?
 2. Is there a correlation between shipping charges and total sales?
 3. Which age group provides the highest sales per order on average?
@@ -55,6 +55,8 @@ In this EDA phase, we will examine the ustomer patterns, product performance, sa
 10. Is there a pattern between order rating and the presence of shipping charges?
 
 ---
-CODES USE
+**USED EXCEL CODE**
+__EXCEL__
+'''TEXT(Data!$B2,"MMMM")'''
 RECOMMENDATION
 RESULT

@@ -20,9 +20,9 @@ The analysis covers:
 - Final Reporting – Present findings clearly within the dashboard
 
 **DATA SOURCE**:
-The data was given by a text data in a xlsx format, which was downloaded and processed for analysis
+The data was given by a text data in a xlsx format, which was downloaded and processed for analysis.
 
-**TOOLS**
+**Tools**
 
 ***Mircosoft Excel***
 - Data Organization – Importing, formatting, and structuring the dataset for easy analysis.
@@ -30,6 +30,9 @@ The data was given by a text data in a xlsx format, which was downloaded and pro
 - Computation & Analysis – Using formulas, functions, and pivot tables to calculate totals, averages, correlations, and growth rates.Segmentation – Filtering and grouping data by category, location, gender, and age group.
 - Visualization – Creating charts and graphs to represent trends and comparisons.
 - Dashboard Development – Designing an interactive dashboard with slicers and filters to allow dynamic exploration of the results.
+
+**EXPLORATORY DATA ANALYSIS (EDA)**
+
 KEY QUESTION TO ADDRESS
 CODES USE
 RECOMMENDATION

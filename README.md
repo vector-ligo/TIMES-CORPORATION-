@@ -4,7 +4,7 @@
 ***Objective***
 This project investigates the  key business insights related to sales, customer behavior, product performance and and geographic trends. Through data analysis of This comprehensive details on orders, products, buyers, locations, sales, and reviews. The project seeks to analyze a dataset and create an interactive dashboard to answer key business insights on sales, ratings, locations, products, and buyer trends.
 
-**SCOPE**
+**Scope**
 
 The analysis covers:
 - Customer Insights – Patterns by age, gender, and feedback ratings.
@@ -23,7 +23,8 @@ The analysis covers:
 The data was given by a text data in a xlsx format, which was downloaded and processed for analysis
 
 **TOOLS**
-***Mircosoft Excel**
+
+***Mircosoft Excel***
 - Data Organization – Importing, formatting, and structuring the dataset for easy analysis.
 - Data Cleaning – Removing duplicates, handling missing values, and standardizing formats.
 - Computation & Analysis – Using formulas, functions, and pivot tables to calculate totals, averages, correlations, and growth rates.Segmentation – Filtering and grouping data by category, location, gender, and age group.

@@ -32,9 +32,38 @@ The data was given by a text data in a xlsx format, which was downloaded and pro
 - Dashboard Development – Designing an interactive dashboard with slicers and filters to allow dynamic exploration of the results.
 
 **EXPLORATORY DATA ANALYSIS (EDA)**
+
 In this EDA phase, we will examine the ustomer patterns, product performance, sales trends, geographic insights, pricing–revenue relationships, and how various factors influence customer ratings
 
 **KEY QUESTION TO ADDRESS**
+1. How does the average rating differ across product categories?
+2. Is there a correlation between shipping charges and total sales?
+3. Which age group provides the highest sales per order on average?
+
+4. Do international orders tend to have higher or lower ratings than local ones?
+
+5. Are certain locations consistently high performers across both quantity and revenue?
+
+6. Which product category shows the highest sales growth month-over-month?
+
+7. Do male and female buyers differ in average order value or quantity?
+
+8. What is the average sales per unit in each product category, and how does that relate to total quantity sold?
+
+9. Which month had the highest increase in sales compared to the previous month?
+
+10. Is there a pattern between order rating and the presence of shipping charges?
+
+
+
+
+
+
+
+
+
+Ask ChatGPT
+
 CODES USE
 RECOMMENDATION
 RESULT

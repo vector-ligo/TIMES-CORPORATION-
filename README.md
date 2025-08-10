@@ -59,6 +59,19 @@ _KEY QUESTION TO ADDRESS_
 __EXCEL__
 ```TEXT(Data!$B2,"MMMM")```
 
-RECOMMENDATION
+**RECOMMENDATION**
+
+1. Early adulthood (ages 18–22)
+- They have the highest sales per order, indicating strong purchasing power and loyalty.
+- Focus marketing campaigns and promotions on this group, especially with clothing, which they purchase most.
+2. Prioritize Clothing Category
+- Clothing generates consistently high revenue across months—maintain strong stock levels and seasonal variety.
+- Introduce limited-edition designs and trend-focused collections to keep interest high.
+3. Leverage High-Performing Locations
+- Locations with top performance in both quantity and revenue should be prioritized for new launches, exclusive offers, and larger inventory.
+4. Optimize Shipping Strategy
+- Sales are higher where shipping is charged reasonably—experiment with free shipping thresholds to boost order value.
+5. Explore International Market Expansion
+- International orders already contribute noticeably—strengthen overseas shipping partnerships and targeted marketing abroad.
 
 RESULT

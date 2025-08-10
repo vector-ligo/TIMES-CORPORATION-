@@ -83,3 +83,7 @@ __EXCEL__
 - High-Performing Locations: Certain regions dominate both in total quantity sold and total revenue, making them priority markets.
 - Sales & Shipping: Reasonable shipping charges correlate with higher sales; consider free shipping thresholds.
 - International Sales: A notable share of revenue comes from international orders, indicating potential for global expansion.
+  
+**DASHBOARD** 
+<img width="772" height="683" alt="Dashboard" src="https://github.com/user-attachments/assets/327e3a72-69dc-41bb-9db6-54712f91b04e" />
+
